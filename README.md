@@ -1,6 +1,6 @@
 # Vision Mouse Control
 
-> Real-time hand gesture mouse control using Python, OpenCV, and MediaPipe.
+Real-time hand gesture mouse control using Python, OpenCV, and MediaPipe.
 
 Control your system cursor using hand movements detected through your webcam. This project demonstrates real-time computer vision, gesture recognition, and human-computer interaction using pure Python.
 
